@@ -7,7 +7,7 @@ This Max Patch takes the average color of each frame of a video to fill a one-di
 The result looks like this:
 ![Resulting image](/picture/Average_Frame_Color.png)
 
-It is inspired by the work of Dillon Bakrer: [Spectrum](http://dillonbaker.com/#/spectrum/).
+It is inspired by the work of Dillon Baker: [Spectrum](http://dillonbaker.com/#/spectrum/).
 
 
 
